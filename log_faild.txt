@@ -1,0 +1,5 @@
+﻿chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.22631 x86_64) (100)
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:63423/session/552bcddbacfc76a55b55e097bb13333e/window/current/size. The status of the exception was ReceiveFailure, and the message was: The underlying connection was closed: An unexpected error occurred on a receive.
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:49528/session/1a25eb5eef14f19cc5568eaa9fc8b7a5/url. The status of the exception was ConnectFailure, and the message was: Unable to connect to the remote server
